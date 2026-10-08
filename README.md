@@ -396,6 +396,3 @@ Buna rağmen:
 
 ---
 
-## Lisans
-
-Bu proje **MIT Lisansı** ile dağıtılabilir (önerilen). GitHub'da repoya `LICENSE` dosyası eklerken *MIT License* şablonunu seçip adınızı yazmanız yeterlidir. Farklı bir lisans tercih ediyorsanız bu bölümü güncelleyin.
